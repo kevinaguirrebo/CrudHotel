@@ -19,6 +19,7 @@ import javax.swing.table.DefaultTableModel;
  *
  * @author SANTIAGO
  */
+// No lo se rick Parece falso
 public class frmCliente extends javax.swing.JInternalFrame {
 
     /**
