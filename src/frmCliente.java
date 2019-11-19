@@ -29,6 +29,7 @@ public class frmCliente extends javax.swing.JInternalFrame {
         listarClientes();
         btnActualizar.setEnabled(false);
     }
+    // comenta tu codigo
      
     public void listarClientes(){
         DefaultTableModel modelo = new DefaultTableModel();
